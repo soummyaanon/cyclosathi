@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250104548164",
+    "project_id": "cyclosathi",
+    "storage_bucket": "cyclosathi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250104548164:android:394955603de17af3876511",
+        "android_client_info": {
+          "package_name": "com.example.cyclosathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGPhMK_MV0cysigFuC7xWZfjMLdtm-z4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
