@@ -16,7 +16,7 @@ class WeatherMapWidget extends StatefulWidget {
 }
 
 class WeatherMapWidgetState extends State<WeatherMapWidget> {
-  final String apiKey = '75b09790e6b51f5ac93affa1334f9644';
+  final String apiKey = 'ApiKEY';
   final MapController mapController = MapController();
   List<Marker> markers = [];
   LatLng? currentLocation;
